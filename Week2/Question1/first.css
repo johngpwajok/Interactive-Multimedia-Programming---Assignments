@@ -1,0 +1,26 @@
+body{
+	background-color: #E8E8E8;
+	width: 100%;
+}
+
+#topBar{
+	background-color: #808080;
+	width: 100%;
+	margin-right: 5%
+
+}
+
+#first{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#second{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#third{
+	margin-left: 5%;
+	margin-right: 5%;
+}

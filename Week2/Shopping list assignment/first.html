@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <link rel="stylesheet" type="text/css" href="style.css"/>
+      <script src="shopping_list.js"></script>
+      <script src="shopping_model.js"></script>
+      <script src="ViewController.js"></script>
+
+      <title>My beautiful html document </title>
+    </head>
+  <body>
+    <input id="nameInput" placeholder="Name" type="text"></input>
+    <input id="priceInput" placeholder="Price" type="number"></input>
+    <button onclick="addItem()">Add</button>
+
+    <p id="topBar"></p>
+    <p>Price of all items <span id="priceElement">0 EUR"</span></p>
+    <p>Shopping items:</p>
+    <p class="mainContent yellowBg" id="list"></p>
+
+  </body>
+</html>

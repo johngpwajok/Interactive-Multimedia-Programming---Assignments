@@ -1,0 +1,19 @@
+Question 1:
+HTML- HTML(Hypertext Markup Language) is the standard language that is used to code web pages.
+It allows the programmer to add fonts, different colours, hyperlinks and various other effects 
+and features to their web page.
+
+CSS- Cascading Style Sheet is used to customize web pages. It basically dictates how the page is presented
+on the system.
+
+JavaScript- JavaScript enables the user of the web page to have client features. These client features are what 
+enable the user to interact with the page.
+
+HTTP- HTTP (Hypertext Transfer Protocol) enables the transfer of documents like HTML over the web. It enables 
+communication between browsers and servers and uses  client-server model
+
+HTML5- HTML5 is version 5 of the HTML Markup language. It is the current standard of HTML
+
+Dynamic HTML- DHTML is not really just one thing. It is the combination of HTML and other technologies like 
+Javascript, CSS and PHP to make animated or interactive webpages.
+

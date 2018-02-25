@@ -1,0 +1,27 @@
+#main{
+	background-color: #585858;
+}
+
+#topBar{
+	color: #ffffff;
+}
+
+#para{
+	color: #00FFFF;
+}
+#wrapper{
+	width:100%;
+}
+#left{
+	max-width: 45%;
+	float: left;
+	padding:2%;
+	border:2px solid black;
+}
+#right{
+	float:left;
+	max-width: 45%;
+	margin-left: 2%;
+	padding:2%;
+	border:2px solid black;
+}

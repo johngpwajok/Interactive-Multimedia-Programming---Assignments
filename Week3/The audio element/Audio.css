@@ -1,0 +1,11 @@
+body{
+	background-color: #505050;
+}
+#content{
+	max-width: 100%;
+}
+#audio{
+	padding-top: 5%;
+	width: 50%;
+
+}

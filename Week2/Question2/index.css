@@ -1,0 +1,53 @@
+body{
+	background-color: #E8E8E8;
+	width: 100%;
+}
+
+#menu{
+    max-width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    padding:0 0px;
+}
+
+#content{
+	display: block;
+	float: right;
+	width: 80%;
+	display: block;
+	border: 1% solid black;
+}
+
+#menuList{
+	list-style: none;
+	font-size: 5vh;
+	display: block;
+}
+
+#listItem{
+	font-size: 14;
+}
+
+#topBar{
+	background-color: #808080;
+	width: 100%;
+
+}
+
+#first{
+
+	margin-right: 5%;
+}
+
+#second{
+	margin-right: 5%;
+}
+
+#third{
+	margin-right: 5%;
+}
+
+#image{
+	max-width: 100%;
+	height: auto;
+}

@@ -1,0 +1,21 @@
+body{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.mainContent {
+	margin-left: 4cm;
+	color: #FF0000;
+}
+
+#topBar {
+	color: #00FF00;
+}
+
+#greenBG {
+	background: #00FF00;
+}
+
+#yellowBG {
+	background: #FFFF00;
+}
