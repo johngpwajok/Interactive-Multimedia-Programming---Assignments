@@ -1,0 +1,4 @@
+Flikr API key: 1981a529bc231092e2675b11672d8f2d
+
+Secret: c03aa8652cad4457
+
